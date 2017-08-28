@@ -1,0 +1,11 @@
+PlayIntent play sound
+PlayIntent play a sound
+PlayIntent play the sound
+PlayIntent play me a sound
+PlayIntent play me another sound
+PlayIntent play me the sound
+GuessIntent is it {guess}
+GuessIntent is that {guess}
+GuessIntent would that be {guess}
+GuessIntent that is {guess}
+GuessIntent my guess is {guess}

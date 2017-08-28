@@ -1,0 +1,25 @@
+{
+  "intents": [
+    {
+      "intent": "PlayIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "guess",
+          "type": "AMAZON.Sport"
+        }
+      ],
+      "intent": "GuessIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
