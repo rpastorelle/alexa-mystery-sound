@@ -1,0 +1,21 @@
+{
+  "name": "mystery-sound",
+  "version": "1.0.0",
+  "description": "Mystery Sound skill for Alexa",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "zip": "zip -r ../mystery-sound.zip *"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "mystery-sound"
+  ],
+  "author": "Futuri Media",
+  "license": "Apache-2.0"
+}
